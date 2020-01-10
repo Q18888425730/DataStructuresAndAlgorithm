@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\算法作业\买鸡\Chicken\bin\Debug\netcoreapp2.2\Chicken.deps.json
+C:\Users\Administrator\Desktop\算法作业\买鸡\Chicken\bin\Debug\netcoreapp2.2\Chicken.runtimeconfig.json
+C:\Users\Administrator\Desktop\算法作业\买鸡\Chicken\bin\Debug\netcoreapp2.2\Chicken.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\算法作业\买鸡\Chicken\bin\Debug\netcoreapp2.2\Chicken.dll
+C:\Users\Administrator\Desktop\算法作业\买鸡\Chicken\bin\Debug\netcoreapp2.2\Chicken.pdb
+C:\Users\Administrator\Desktop\算法作业\买鸡\Chicken\obj\Debug\netcoreapp2.2\Chicken.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\算法作业\买鸡\Chicken\obj\Debug\netcoreapp2.2\Chicken.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\算法作业\买鸡\Chicken\obj\Debug\netcoreapp2.2\Chicken.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\算法作业\买鸡\Chicken\obj\Debug\netcoreapp2.2\Chicken.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\算法作业\买鸡\Chicken\obj\Debug\netcoreapp2.2\Chicken.dll
+C:\Users\Administrator\Desktop\算法作业\买鸡\Chicken\obj\Debug\netcoreapp2.2\Chicken.pdb
